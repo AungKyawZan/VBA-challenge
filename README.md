@@ -1,10 +1,7 @@
 # VBA-challenge
 In this challenge, a VBA script is used to analyse generated stock market data to achieve the following.
 
-## Instructions
-Create a script that loops through all the stocks for one year and outputs the following information:
-
-The ticker symbol
+Created a script that loops through all the stocks for one year: 
 
 - Yearly change from the opening price at the beginning of a given year to the closing price at the end of that year.
 
